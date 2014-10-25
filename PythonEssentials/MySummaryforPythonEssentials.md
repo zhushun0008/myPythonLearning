@@ -1,5 +1,6 @@
 My Summary For Python Essentials
 ==========================
+
 Commonly Used Data Types
 * Primary data types
    * Integer -100
@@ -14,7 +15,7 @@ Commonly Used Data Types
    * Complex Numbers
    * Tuple
    * User Defined
-   * ***Pandas*** is for time series analysis
-		* DataFrame
-		* Series
+   * ***Pandas*** is great for time series analysis
+	* DataFrame
+	* Series
 
