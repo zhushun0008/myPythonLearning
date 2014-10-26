@@ -1,5 +1,10 @@
 My Summary For Python Essentials
 ==========================
+### 2.1
+
+### 2.2
+
+### 2.3
 
 Commonly Used Data Types
 * Primary data types
