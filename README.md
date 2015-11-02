@@ -15,5 +15,6 @@ Academic Training from Enthought for speeding up learning Python
 
 ## Python Usage
 ### Decorators
+[PEP 0318 -- Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/)
 ## Module 
 ### Tornado
