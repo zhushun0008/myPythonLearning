@@ -28,5 +28,9 @@ Academic Training from Enthought for speeding up learning Python
 * [原来Python装饰器就是这么个东西](http://pythonmap.iteye.com/blog/1682696)
 * [PEP 0318 -- Decorators for Functions and Methods](https://www.python.org/dev/peps/pep-0318/)
 
+### commands
+1. commands.getstatusoutput(cmd)
+Execute ***cmd*** command and return the tuple of (status, output_of_cmd)
+
 ## Module 
 ### Tornado
