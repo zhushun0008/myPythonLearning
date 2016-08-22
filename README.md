@@ -39,6 +39,6 @@ Execute ***cmd*** command and return the tuple of (status, output_of_cmd)
  commands.getstatusoutput('cat /bin/junk')
  # (256, 'cat: /bin/junk: No such file or directory')
  ```
->>> commands.getstatusoutput('/bin/junk')
+
 ## Module 
 ### Tornado
