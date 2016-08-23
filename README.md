@@ -42,9 +42,10 @@ Execute ***cmd*** command and return the tuple of (status, output_of_cmd)
 
 ### time
 1. sleep
- ```
- time.sleep(seconds)
- ```
+
+  ```
+  time.sleep(seconds)
+  ```
  * ref 
      * [sleep method](http://www.runoob.com/python/att-time-sleep.html)
 
