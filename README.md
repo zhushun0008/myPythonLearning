@@ -42,7 +42,11 @@ Execute ***cmd*** command and return the tuple of (status, output_of_cmd)
 
 ### time
 1. sleep
- * ref [sleep method](http://www.runoob.com/python/att-time-sleep.html)
+ ```
+ time.sleep(seconds)
+ ```
+ * ref 
+     * [sleep method](http://www.runoob.com/python/att-time-sleep.html)
 
 ## Module 
 ### Tornado
