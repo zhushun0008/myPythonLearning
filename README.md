@@ -1,8 +1,15 @@
 my Python Learning
 ================
 
-Academic Training from Enthought for speeding up learning Python
+1. Academic Training from Enthought for speeding up learning Python
 
+## Ipython notebook
+
+## Jupyter notebook
+if error: to use the jupyter-js-widgets nbextension, you'll need to update
+```
+ conda install -c conda-forge ipywidgets
+```
 ### 1. Trick 
 1. Sample data
   * Refer to [Shuffle data](http://stackoverflow.com/questions/11765061/better-way-to-shuffle-two-related-lists)
